@@ -6,7 +6,7 @@ To set the parameters, some trackbars are used for every filter. More informatio
 In order to run the program (with Ubuntu for example) the library OpenCV is needed, as well as the g++ compiler.
 Open a terminal and run the following two commands (one after the other):
 
-  - `g++ filter.cpp lab2.cpp -o lab2 /`pkg-config --cflags --libs opencv4/``
+  - `g++ filter.cpp lab2.cpp -o lab2 \`pkg-config --cflags --libs opencv4\``
 
   - ./lab2
 
