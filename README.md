@@ -1,5 +1,5 @@
 # CVHomeworks-OpenCV
-Homeworks developed in C++ for the Computer Vision course.
+Homeworks developed in C++ for the Computer Vision course, using the OpenCV library.
 
 - HW1 is related to the creation of the histograms of an image, the equalization of the image and the use of different kind of filters, such as the gaussian, the bilateral and the median filter.
 To set the parameters, some trackbars are used for every filter. More information are provided in the report placed inside the folder.
