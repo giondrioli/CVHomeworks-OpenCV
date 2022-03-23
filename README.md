@@ -5,7 +5,9 @@ Homeworks developed in C++ for the Computer Vision course.
 To set the parameters, some trackbars are used for every filter. More information are provided in the report placed inside the folder.
 In order to run the program (with Ubuntu for example) the library OpenCV is needed, as well as the g++ compiler.
 Open a terminal and run the following two commands (one after the other):
+
 g++ filter.cpp lab2.cpp -o lab2 `pkg-config --cflags --libs opencv4`
+
 ./lab2
 
 This is not the only way to run the program, it depends on the specific computer that is used.
@@ -14,7 +16,9 @@ This is not the only way to run the program, it depends on the specific computer
 and ORB algorithms have been utilized. More information are provided in the report placed inside the folder.
 In order to run the program (with Ubuntu for example) the library OpenCV is needed, as well as the g++ compiler.
 Open a terminal and run the following two commands (one after the other):
+
 g++ lab4.cpp panoramic_utils2.cpp -o lab4 `pkg-config --cflags --libs opencv4`
+
 ./lab4
 
 This is not the only way to run the program, it depends on the specific computer that is used.
