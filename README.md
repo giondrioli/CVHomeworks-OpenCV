@@ -10,7 +10,7 @@ Open a terminal and run the following two commands (one after the other):
 
   - `` ./lab2 ``
 
-This is not the only way to run the program, it depends on the specific computer that is used.
+This is not the only way to run the program, it depends on the specific implementation.
 
 - HW2 is related to the creation of a panoramic image, starting from a set of images obtained by rotating the camera of a small amount for each image. In order to stitch them together, the SIFT 
 and ORB algorithms have been utilized. More information are provided in the report placed inside the folder.
@@ -21,4 +21,4 @@ Open a terminal and run the following two commands (one after the other):
 
   - `` ./lab4 ``
 
-This is not the only way to run the program, it depends on the specific computer that is used.
+This is not the only way to run the program, it depends on the specific implementation.
